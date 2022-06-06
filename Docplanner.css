@@ -1,0 +1,87 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.logo{
+    width: 260px;
+    height: 30px; ;
+}
+.val{
+border: none;
+}
+a {
+    text-decoration:none;
+
+}
+ .item{
+    display: flex;
+    list-style-type: none;
+   
+}
+ ul li{
+    padding: 20px;
+
+}
+
+.img{
+
+  text-align: center;  
+}
+
+.title{
+    background-color: white;
+    color: blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+
+}
+.para{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.titre{
+    width: 300px;
+    background-color: white;
+    font-style: italic;
+}
+.titre1{
+    width: 300px;
+    padding-left: 400px;;
+    background-color: white;
+}
+.container1{
+    margin: 50px;
+    display:flex;
+    
+    
+    justify-content:center;
+    border: 1px solid black;
+    align-items: baseline;
+    margin-left: 200px;
+}
+
+
+.p0{
+    padding: 20px ;
+    margin: 50px;
+    height : 300px;
+    background-color: aquamarine;
+}
+.p1{
+    background-color: blue;
+    padding: 20px ;
+    margin: 50px;
+    height : 300px;
+}
+.p2{
+    background-color: blueviolet;
+    border: 5px solid red;
+    padding: 20px ;
+    margin: 50px;
+    height : 300px;
+}
